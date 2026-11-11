@@ -1,0 +1,15 @@
+PORTAL DE FORMACIÓN DE ÓSCAR DÍAZ
+
+SUBIDA A GITHUB
+1. Descomprime este ZIP.
+2. Abre https://github.com/dijio2004-boop/portal-formaci-n-oscar
+3. En el repositorio vacío, pulsa «uploading an existing file».
+4. Arrastra todos los archivos descomprimidos, de modo que index.html quede en la raíz.
+5. Pulsa Commit changes.
+6. En Settings > Pages, selecciona Deploy from a branch, rama main y carpeta / (root), y pulsa Save.
+7. GitHub mostrará la dirección al terminar la publicación.
+
+No subas el ZIP como archivo único: debes subir su contenido.
+
+Incluye las tres páginas de cursos, buscador, filtros, progreso local, gestión del catálogo y los enlaces existentes. No modifica las aulas originales.
+Las vistas son filtros de presentación; no protegen soluciones confidenciales.
